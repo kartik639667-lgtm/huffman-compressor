@@ -1,0 +1,7 @@
+# Compiled Executables
+*.exe
+huffman
+
+# Test outputs
+compressed.txt
+output.txt
